@@ -39,8 +39,7 @@
     "test": "jest --forceExit --coverage",
     "test:watch": "jest --forceExit --coverage --watch",
     "semantic-release": "semantic-release",
-    "commit": "cz",
-    "prepare": "build"
+    "commit": "cz"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
